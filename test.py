@@ -14,8 +14,9 @@ def loop():
 t2 = threading.Thread(target=loop, name='t2')
 t2.start()
 while(1):
-    if(time.time()-start>1):       #Checks for 1 second
-        print(time.time()-start)
+    t=time.time()-start
+    if(t>=1):       #Checks for 1 second
+        print(t)
         print(i)
         sys.exit
         break
