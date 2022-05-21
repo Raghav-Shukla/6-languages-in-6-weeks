@@ -5,5 +5,5 @@
 <li>Greater the value of the variable, greater is the processing speed.</li>
 <li>This program incorporates multi-threading, libraries such as time, threading and sys. When executed, the output contains the time and value of the variable at that instant.</li> 
 </ol>
-<h5>Here, it is important to note that due to thread switching, output may change with every run. It is recommended to run the program multiple times</h5>
+<h5>Here, it is important to note that due to thread switching, output may change with every run. It is recommended to run the program multiple times. Here, kindly try to execute this in python IDLE for best results</h5>
   
