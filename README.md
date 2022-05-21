@@ -1,5 +1,5 @@
 # 6-languages-in-6-weeks
-<h2>Kindly read all the information here in this README to understand how to use this repository</h2>
+<h2>Kindly read all the information here in this README to understand how to use this repository. There are few key important points which will be missed by the user if not read.</h2>
 <h3>This program is an attempt to determine how fast is a given computer.</h3> 
 <ol>
 <li>This program initialises a variable to 0 and subsequently increments it in steps of 1 via a loop. When 1s has elapsed post the initialisation, it ends the thread, marks the time and prints the value of the variable.</li> 
